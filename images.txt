@@ -1,4 +1,4 @@
-infiniflow/ragflow:v0.20.5
+infiniflow/ragflow:v0.22.1
 
 #nginx
 #支持私库
