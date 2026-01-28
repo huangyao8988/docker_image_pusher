@@ -1,4 +1,4 @@
-infiniflow/ragflow:v0.22.1
+maven:3.9-eclipse-temurin-21-alpine
 
 #nginx
 #支持私库
