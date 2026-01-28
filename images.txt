@@ -1,4 +1,4 @@
-node:20-alpine AS builder
+node:20-alpine
 
 #nginx
 #支持私库
