@@ -1,4 +1,4 @@
-maven:3.9-eclipse-temurin-21-alpine
+eclipse-temurin:21-jre-alpine
 
 #nginx
 #支持私库
